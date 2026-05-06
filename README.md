@@ -118,3 +118,15 @@ task-tracker/
 │       │       ├── auth/         # Landing, Login, and Signup screens
 │       │       └── tasks/        # Dynamic TaskList and Create/Edit screens
 ```
+
+---
+
+## 📱 Screen Previews
+
+Here are some real screenshots of the mobile application in action:
+
+| Login Screen | Tasks Dashboard | Signup Screen |
+|:---:|:---:|:---:|
+| <img src="./screenshots/login_page.jpg" width="240" alt="Login Page" /> | <img src="./screenshots/task_page.jpg" width="240" alt="Tasks Dashboard" /> | <img src="./screenshots/signup_page.jpg" width="240" alt="Signup Page" /> |
+
+---
