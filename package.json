@@ -1,0 +1,19 @@
+{
+  "name": "task-tracker-monorepo",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": [
+    "apps/backend",
+    "apps/mobile"
+  ],
+  "scripts": {
+    "backend": "yarn workspace backend dev",
+    "mobile": "yarn workspace mobile start"
+  },
+  "overrides": {
+    "react-native-worklets": "0.5.1"
+  },
+  "dependencies": {
+    "react-native-worklets": "0.5.1"
+  }
+}

@@ -1,0 +1,12 @@
+node_modules
+dist
+.env
+.expo
+ios
+android
+build
+*.log
+.DS_Store
+.idea
+.vscode
+coverage
