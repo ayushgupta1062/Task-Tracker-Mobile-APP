@@ -127,9 +127,7 @@ Here are some real screenshots of the mobile application in action:
 
 | Home Screen | Tasks Dashboard | Signup Screen |
 |:---:|:---:|:---:|
-| <img width="719" height="1600" alt="WhatsApp Image 2026-05-06 at 19 42 56" src="https://github.com/user-attachments/assets/fcfb49c6-5de4-4d0d-b62d-2257aa9890e1" />
- | <img width="719" height="1600" alt="WhatsApp Image 2026-05-06 at 19 42 57 (1)" src="https://github.com/user-attachments/assets/241f7bd6-64d0-41d2-acca-52371f453f68" />
- | <img width="719" height="1600" alt="WhatsApp Image 2026-05-06 at 19 42 57" src="https://github.com/user-attachments/assets/baa52460-1760-4435-831b-3a4872229a72" />
+| <img width="719" height="1600" alt="WhatsApp Image 2026-05-06 at 19 42 56" src="https://github.com/user-attachments/assets/fcfb49c6-5de4-4d0d-b62d-2257aa9890e1" /> | <img width="719" height="1600" alt="WhatsApp Image 2026-05-06 at 19 42 57 (1)" src="https://github.com/user-attachments/assets/241f7bd6-64d0-41d2-acca-52371f453f68" /> | <img width="719" height="1600" alt="WhatsApp Image 2026-05-06 at 19 42 57" src="https://github.com/user-attachments/assets/baa52460-1760-4435-831b-3a4872229a72" />
  |
 
 ---
